@@ -1,0 +1,10 @@
+name: GitHub Actions
+run-name: ${{ github.actor }} GitHub Actions 🚀
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.0.0
+            
