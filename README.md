@@ -9,10 +9,10 @@
 	
 ## <picture><img src = "https://github.com/ferrarifilippo/ferrarifilippo/blob/main/images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- :computer: I love solving problems using `New Technologies`.
-- :student: I'm about to major in `Artificial Intelligence` Engineering.
+- :computer: I enjoy solving problems by leveraging `cutting-edge technologies`.
+- :student: I earned a master's degree in `Artificial Intelligence` Engineering.
 - :nerd_face: Always `Learning` new things.
-- :technologist: I’m currently working as `Software Developer`.
+- :technologist: I’m currently working as `Vision Systems and AI Engineer`.
 
 <br>
 
