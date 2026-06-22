@@ -9,10 +9,10 @@
 	
 ## <picture><img src = "https://github.com/ferrarifilippo/ferrarifilippo/blob/main/images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- :computer: I love solving problems using `New Technologies`.
-- :student: I'm about to major in `Artificial Intelligence` Engineering.
+- :computer: I enjoy solving problems by leveraging cutting-edge technologies
+- :student: I earned a master's degree in `Artificial Intelligence` Engineering.
 - :nerd_face: Always `Learning` new things.
-- :technologist: I’m currently working as `Software Developer`.
+- :technologist: I’m currently working as `Vision Systems & AI Engineer`.
 
 <br>
 
@@ -25,7 +25,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bash,discord,docker,postman,figma,github,fastapi,flask,cpp,php,js,py,java,pytorch,django,tensorflow,flutter,idea,eclipse,vscode,matlab,jquery,laravel,latex,nginx,ps,ros,xd,linux,mongodb,mysql&perline=8" />
+    <img src="https://skillicons.dev/icons?i=aws,bash,discord,docker,postman,figma,github,fastapi,flask,cpp, c#,php,js,py,java,pytorch,django,tensorflow,flutter,idea,eclipse,vscode,matlab,jquery,laravel,latex,nginx,ps,ros,xd,linux,mongodb,mysql&perline=8" />
   </a>
 </p>
 
