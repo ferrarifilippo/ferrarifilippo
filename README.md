@@ -3,16 +3,16 @@
 
 <h1 align="center">Hi there 👋 , I'm Filippo Ferrari </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Computer+Science+Engineer;Artificial+Intelligence+Student;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=AI+Engineer;Vision+Systems;Computer+Vision;Deep+Learning"></a>
 </p>
 
 	
 ## <picture><img src = "https://github.com/ferrarifilippo/ferrarifilippo/blob/main/images/about_me.gif?raw=true" width = 50px></picture> About me
 
 - :computer: I enjoy solving problems by leveraging `cutting-edge technologies`.
-- :student: I earned a master's degree in `Artificial Intelligence` Engineering.
-- :nerd_face: Always `Learning` new things.
-- :technologist: I’m currently working as `Vision Systems and AI Engineer`.
+- 🎓 I earned a master's degree in `Artificial Intelligence` Engineering.
+- 📚 Always `Learning` new things.
+- 👁️ I’m currently working as `Vision Systems and AI Engineer`.
 
 <br>
 
